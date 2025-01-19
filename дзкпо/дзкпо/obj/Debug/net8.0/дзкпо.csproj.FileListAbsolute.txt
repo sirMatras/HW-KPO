@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\bin\Debug\net8.0\дзкпо.exe
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\bin\Debug\net8.0\дзкпо.deps.json
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\bin\Debug\net8.0\дзкпо.runtimeconfig.json
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\bin\Debug\net8.0\дзкпо.dll
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\bin\Debug\net8.0\дзкпо.pdb
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\дзкпо.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\дзкпо.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\дзкпо.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\дзкпо.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\дзкпо.dll
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\refint\дзкпо.dll
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\дзкпо.pdb
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\дзкпо.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\дзкпо\дзкпо\obj\Debug\net8.0\ref\дзкпо.dll
