@@ -9,11 +9,11 @@ class Program
         HseCarShop carShop = new HseCarShop();
 
         Customer customer1 = new Customer("Эмрэшка", random.Next(1, 10), random.Next(1, 10));
-        Customer customer2 = new Customer("Сэнсэй", random.Next(1, 10), random.Next(1, 10));
+        Customer customer2 = new Customer("Пидиди", random.Next(1, 10), random.Next(1, 10));
         Customer customer3 = new Customer("Мой сладкий", random.Next(1, 10), random.Next(1, 10));
-        Customer customer4 = new Customer("Пикми", random.Next(1, 10), random.Next(1, 10));
-        Customer customer5 = new Customer("Дмитрий", random.Next(1, 10), random.Next(1, 10));
-        Customer customer6 = new Customer("Ромчик", random.Next(1, 10), random.Next(1, 10));
+        Customer customer4 = new Customer("Палитра", random.Next(1, 10), random.Next(1, 10));
+        Customer customer5 = new Customer("Гитара", random.Next(1, 10), random.Next(1, 10));
+        Customer customer6 = new Customer("Кто носит фирму адидас", random.Next(1, 10), random.Next(1, 10));
 
         Console.WriteLine();
 
