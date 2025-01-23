@@ -30,8 +30,6 @@
 
     public void SaleCar()
     {
-        Console.WriteLine();
-
         var allCustomers = customerStorage.GetAllCustomers();
         var carsInWarehouse = new List<Car>();
 
