@@ -12,6 +12,7 @@ public class Animal : IAlive
     public int Food { get; set; }
     public int HealthLevel { get; set; }
     public string AnimalInventoryNumber { get; set; }
+    
     public Animal(string name, string invNumber)
     {
         Name = name;
