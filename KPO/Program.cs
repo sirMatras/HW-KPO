@@ -29,9 +29,9 @@ namespace KPO
             var addContact = serviceProvider.GetRequiredService<IAddToContactZoo>();
             var messageService = serviceProvider.GetRequiredService<MessageService>();  
             
-            Herbo animal1 = new Herbo("Трамп", "00110");
-            Tiger animal2 = new Tiger("Бандера", "12345");
-            Rabbit animal3 = new Rabbit("Зеленский", "012001");
+            Herbo animal1 = new Herbo("Лох", "00110");
+            Tiger animal2 = new Tiger("Бобик", "12345");
+            Rabbit animal3 = new Rabbit("Бабиджон", "012001");
             
             addToBalance.AddToBalance(animal1, healthCheck);
             addToBalance.AddToBalance(animal2, healthCheck);
