@@ -7,7 +7,7 @@ interface IAlive
 
 public class Animal : IAlive
 {
-   public static Random _rnd = new Random();
+    public static Random _rnd = new Random();
     public string Name { get; set; }
     public int Food { get; set; }
     public int HealthLevel { get; set; }
